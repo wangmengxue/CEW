@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<DepartmentList xmlns:time="2014/10/15" xmlns:xs="http://www.marsoln.org/xml">
+  <errcode>0</errcode>
+  <errmsg>ok</errmsg>
+  <department>
+    <Department>
+      <id>1</id>
+      <name>伙伴</name>
+      <parentid>0</parentid>
+    </Department>
+    <Department>
+      <id>2</id>
+      <name>乐兴</name>
+      <parentid>1</parentid>
+    </Department>
+    <Department>
+      <id>3</id>
+      <name>技术部</name>
+      <parentid>2</parentid>
+    </Department>
+    <Department>
+      <id>4</id>
+      <name>拓宇</name>
+      <parentid>1</parentid>
+    </Department>
+    <Department>
+      <id>5</id>
+      <name>质量保证部</name>
+      <parentid>4</parentid>
+    </Department>
+  </department>
+</DepartmentList>

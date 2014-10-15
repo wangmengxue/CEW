@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<AccessToken xmlns:time="2014/10/15" xmlns:xs="http://www.marsoln.org/xml">
+  <Access_Token>CgmTzNXVBulWvnHH_UMdOUjP5UFXAjJ8hTC7MvQCNzPj08OQ-ADkJrBVIBUY3UXP</Access_Token>
+  <Expires_in>7200</Expires_in>
+</AccessToken>

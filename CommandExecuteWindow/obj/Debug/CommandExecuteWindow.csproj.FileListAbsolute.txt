@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommandExecuteWindow\CommandExecuteWindow\bin\Debug\CommandExecuteWindow.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommandExecuteWindow\CommandExecuteWindow\bin\Debug\CommandExecuteWindow.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommandExecuteWindow\CommandExecuteWindow\bin\Debug\CommandExecuteWindow.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommandExecuteWindow\CommandExecuteWindow\obj\Debug\CommandExecuteWindow.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommandExecuteWindow\CommandExecuteWindow\obj\Debug\CommandExecuteWindow.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommandExecuteWindow\CommandExecuteWindow\obj\Debug\CommandExecuteWindow.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommandExecuteWindow\CEW\CommandExecuteWindow\bin\Debug\CommandExecuteWindow.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommandExecuteWindow\CEW\CommandExecuteWindow\obj\Debug\CommandExecuteWindow.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommandExecuteWindow\CEW\CommandExecuteWindow\obj\Debug\CommandExecuteWindow.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommandExecuteWindow\CEW\CommandExecuteWindow\bin\Debug\CommandExecuteWindow.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommandExecuteWindow\CEW\CommandExecuteWindow\bin\Debug\CommandExecuteWindow.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommandExecuteWindow\CEW\CommandExecuteWindow\obj\Debug\CommandExecuteWindow.csprojResolveAssemblyReference.cache
